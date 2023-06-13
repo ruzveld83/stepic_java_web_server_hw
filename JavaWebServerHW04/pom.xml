@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <org.eclipse.jetty.version>9.4.44.v20210927</org.eclipse.jetty.version>
+        <org.eclipse.jetty.version>9.4.51.v20230217</org.eclipse.jetty.version>
     </properties>
 
     <dependencies>
